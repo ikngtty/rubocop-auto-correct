@@ -20,11 +20,11 @@ You have [rubocop](https://github.com/bbatsov/rubocop) installed.
 
 | Name | Description |
 | ---- | ----------- |
-| `RUbocop Auto Correct: Current File` | Run rubocop auto-correct to current file |
-| `RUbocop Auto Correct: Toggle Notification` | Toggle notification option |
-| `RUbocop Auto Correct: Toggle Only Fixed Notification` | Toggle only fixes notification option |
-| `RUbocop Auto Correct: Toggle Auto Run` | Toggle auto run option |
-| `RUbocop Auto Correct: Toggle Debug Mode` | Toggle debug-mode option |
+| `Rubocop Auto Correct: Current File` | Run rubocop auto-correct to current file |
+| `Rubocop Auto Correct: Toggle Notification` | Toggle notification option |
+| `Rubocop Auto Correct: Toggle Only Fixed Notification` | Toggle only fixes notification option |
+| `Rubocop Auto Correct: Toggle Auto Run` | Toggle auto run option |
+| `Rubocop Auto Correct: Toggle Debug Mode` | Toggle debug-mode option |
 
 ## Keymap example
 
